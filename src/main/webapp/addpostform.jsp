@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<h1>Add New Post</h1>
+<h1>Add New Post!</h1>
 <form action="addpost.jsp" method="post" >
 <table>
 <tr><td>Name:</td><td><input type="text" name="name"/></td></tr>
